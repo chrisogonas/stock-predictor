@@ -37,6 +37,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# aws security key
+stock-predictor-fastapi-chrisogonas.pem
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
